@@ -8,7 +8,6 @@ $$
     \Leftrightarrow \quad 
      y \prime"""
 general_exponent_differentiate.parts["Result"].add_concept(differentiate)
-print general_exponent_differentiate.parts["Result"].concepts
 general_exponent_differentiate.parts['Result'].desplay +=r"""
  = ln(a)a^{x}
 $$
@@ -29,8 +28,6 @@ general_exponent_differentiate.parts['Proof'].desplay +=r"""     & = \ln(a) a^{x
     \end{align*}
     
 """
-
-
 general_exponent_differentiate.write_module_doc() 
 
 
