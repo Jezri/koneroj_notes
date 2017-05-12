@@ -12,5 +12,9 @@ $$ = a \sum_{i=0}^n {{n}\choose{i}} a^{n-i} b^{i} + b \sum_{i=0}^n {{n}\choose{i
 $$ = \sum_{i=0}^n {{n}\choose{i}} a^{n +1- i} b^{i} + \sum_{i=0}^n {{n}\choose{i}} a^{n-i} b^{i+1} $$
 $$ = \sum_{i=0}^0 {{n}\choose{i}} a^{n+1-i} b^{i} \sum_{i=1}^n {{n}\choose{i}} a^{n+1-i} b^{i} + \sum_{i=0}^{n-1} {{n}\choose{i}} a^{n-i} b^{i+1} \sum_{i=n}^{n} {{n}\choose{i}} a^{n+1-i} b^{i} $$
 $$ = {{n}\choose{0}}  a^{n+1} \sum_{i=1}^n {{n}\choose{i}} a^{n+1-i} b^{i} + \sum_{i=0}^{n-1} {{n}\choose{i}} a^{n-i} b^{i+1}  {{n}\choose{n}} {n+1} $$
+$$ x^{n+1} + y^{n+1} + \sum_{i=1}^n {{n}\choose{i}} a^{n+1-i} b^{i} +  \sum_{i=0}^{n-1} {{n}\choose{i}} a^{n-i} b^{i+1} $$ 
+$$ {{n+1}\choose{0}}x^{n+1} + {{n+1} \choose {n+1}} +  \sum_{i=1}^n {{n+1}\choose{i}} a^{n+1-i} b^{i}  $$
+$$ = \sum_{i=0}^{n+1} {{n+1}\choose{i}} a^{n+1-i} b^{i}  $$
+
 """
     x.write_module_doc()
