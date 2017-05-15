@@ -13,8 +13,8 @@ with binomiel_thoerem as x:
 \end{align*}
 \textbf{Where}
 \begin{align*}
-u &= \sum_{i=0}^0 + {{n}\choose{i}} a^{n+1-i} b^{i} + \sum_{i=n}^    {n} {{n}\choose{i}} a^{n+1-i} b^{i} &  v &= \sum_{i=1}^n {{n}\choose{i}}     a^{n+1-i} b^{i} + \sum_{i=0}^{n-1} {{n}\choose{i}} a^{n-i} b^{i+1}\\
-&=a^{n+1}+b^{n+1} & &= \sum_{r=1}^n{{n}\choose{i}}a^{n-r+1}b^r
+u &=a^{n+1}+b^{n+1} &  v &= \sum_{i=1}^n {{n}\choose{i}}     a^{n+1-i} b^{i} + \sum_{i=0}^{n-1} {{n}\choose{i}} a^{n-i} b^{i+1}\\
+& & &= \sum_{r=1}^n{{n}\choose{i}}a^{n-r+1}b^r
 \end{align*}
 \begin{align*}
 (a+b)^{n+1} &= \sum_{i=0}^{n+1} {{n+1}\choose{i}} a^{n+1-i} b^{i} 
