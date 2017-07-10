@@ -1,0 +1,7 @@
+\documentclass{article} 
+ 	 \usepackage{standalone} 
+ 	 \usepackage{koneroj} 
+ 	 \defineall\begin{document} 
+ \input{angle_in_R2.tex} 
+ \writeall 
+\end{document}
