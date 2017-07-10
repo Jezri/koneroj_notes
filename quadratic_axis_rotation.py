@@ -11,13 +11,13 @@ with quadratic_axis_rotation as x:
             & A_1 = Am^2 + Bmn + Cn^2\\
             & C_1 = An^2 - Bmn + Cm^2\\
             & D_1 = Dm + En \\
-            & E_1 = -Dm + En \\
+            & E_1 = -Dn + Em \\
             & m = \sqrt{\frac{1-k}{2}} \\
             & n = \sqrt{\frac{1+k}{2}} \\
-            & k = \frac{A-C}{\sqrt{B^2 +(A-C)^2}}\times \text{sign}(B) 
+            & k = \frac{A-C}{\sqrt{B^2 +(A-C)^2}}\times \frac{|B|}{B} 
      \end{align*}
      """
-    x.parts["Proof"].desplay +="""
+    x.parts["Proof"].desplay +=r"""
     Can be simplified, removing the cross term by roatating the axis the appropriate angel such that  
     \begin{align*}
     x &
