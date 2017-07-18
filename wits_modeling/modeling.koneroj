@@ -1,0 +1,16 @@
+\documentclass{article} 
+ 	 \usepackage{standalone} 
+ 	 \usepackage{koneroj} 
+ 	 \defineall\begin{document} 
+ \input{differentail_equation.tex} 
+ \writeall 
+ 
+ \input{differentail_solution.tex} 
+ \writeall 
+ 
+ \input{differentail_order.tex} 
+ \writeall 
+ 
+ \input{seperable_equations.tex} 
+ \writeall 
+\end{document}

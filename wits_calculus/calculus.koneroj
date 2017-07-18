@@ -1,0 +1,81 @@
+\documentclass{article} 
+ 	 \usepackage{standalone} 
+ 	 \usepackage{koneroj} 
+ 	 \defineall\begin{document}\emptyall 
+ \input{partition.tex} 
+ \writeall 
+\emptyall 
+ \input{partition_subinterval.tex} 
+ \writeall 
+\emptyall 
+ \input{norm_of_a_partition.tex} 
+ \writeall 
+\emptyall 
+ \input{riemann_sum.tex} 
+ \writeall 
+\emptyall 
+ \input{definite_integral.tex} 
+ \writeall 
+\emptyall 
+ \input{continues_functions_are_intergratable.tex} 
+ \writeall 
+\emptyall 
+ \input{piecewise_continuous_function.tex} 
+ \writeall 
+\emptyall 
+ \input{piecewise_continuous_functions_are_intergratable.tex} 
+ \writeall 
+\emptyall 
+ \input{nonintergratable_function.tex} 
+ \writeall 
+\emptyall 
+ \input{intergral_rules/order_of_intergration.tex} 
+ \writeall 
+\begin{description}
+\item[Intergal]Could not find a file\end{description}\emptyall 
+ \input{intergral_rules/zero_width_interval.tex} 
+ \writeall 
+\begin{description}
+\item[Intergal]Could not find a file\end{description}\emptyall 
+ \input{intergral_rules/intergration_constant.tex} 
+ \writeall 
+\emptyall 
+ \input{intergral_rules/intergration_sum_and_difference.tex} 
+ \writeall 
+\emptyall 
+ \input{intergral_rules/additivity.tex} 
+ \writeall 
+\emptyall 
+ \input{intergral_rules/max_min_inequality.tex} 
+ \writeall 
+\emptyall 
+ \input{intergral_rules/domination.tex} 
+ \writeall 
+\emptyall 
+ \input{area.tex} 
+ \writeall 
+\emptyall 
+ \input{mean_value_theorem_for_defininte_intergrals.tex} 
+ \writeall 
+\emptyall 
+ \input{antiderivites_intergral.tex} 
+ \writeall 
+\emptyall 
+ \input{intergral_of_odd_function.tex} 
+ \writeall 
+\emptyall 
+ \input{intergral_of_even_function.tex} 
+ \writeall 
+\emptyall 
+ \input{area_between_curves.tex} 
+ \writeall 
+\emptyall 
+ \input{volume/volumn.tex} 
+ \writeall 
+\emptyall 
+ \input{volume/volumn_by_disk.tex} 
+ \writeall 
+\emptyall 
+ \input{volume/volumn_by_shell.tex} 
+ \writeall 
+\end{document}
