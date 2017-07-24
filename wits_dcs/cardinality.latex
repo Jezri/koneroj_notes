@@ -1,0 +1,6 @@
+\renewcommand{\name}{Cardinality}
+\renewcommand{\definition}{
+\[ \text{If }\exists n \in N \text{ such that there are \(n \) elements of \(X\) we say \(X\) has a cardinality of n }\]
+\[|X| = n\]
+otherwise we say the cardinality of x is infinte.
+}

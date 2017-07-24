@@ -1,0 +1,5 @@
+\renewcommand{\name}{Set order}
+\renewcommand{\result}{
+\[ \forall \text{ sets } X, Y, Z\]
+\[ X \subseteq Y \text{and} Y \subseteq Z \Leftarrow X \subseteq\]
+}

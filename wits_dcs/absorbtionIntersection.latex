@@ -1,0 +1,4 @@
+\renewcommand{\name}{Absorbtion intersection }
+\renewcommand{\result}{
+\[X \subseteq Y \leftarrow X \cap Y = X \]
+}

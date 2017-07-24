@@ -1,0 +1,4 @@
+\renewcommand{\name}{Set}
+\renewcommand{\definition}{
+	A well defined collection of distinct objects
+}

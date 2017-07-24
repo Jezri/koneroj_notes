@@ -1,0 +1,4 @@
+\renewcommand{\name}{Is a member}
+\renewcommand{\definition}{
+$x \in X $ means $x $ is an element of the set $X $
+}

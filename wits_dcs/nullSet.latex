@@ -1,0 +1,4 @@
+\renewcommand{\name}{Null set}
+\renewcommand{\definition}{
+\(\emptyset \) is called the null set containing no elements
+}

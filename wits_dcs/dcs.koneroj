@@ -1,0 +1,52 @@
+\documentclass{article} 
+ 	 \usepackage{koneroj} 
+ 	 \defineall\begin{document}\emptyall 
+ \input{set.latex} 
+ \writeall 
+\emptyall 
+ \input{isAMember.latex} 
+ \writeall 
+\emptyall 
+ \input{subset.latex} 
+ \writeall 
+\emptyall 
+ \input{setOrder.latex} 
+ \writeall 
+\emptyall 
+ \input{properSubset.latex} 
+ \writeall 
+\emptyall 
+ \input{nullSet.latex} 
+ \writeall 
+\emptyall 
+ \input{cardinality.latex} 
+ \writeall 
+\emptyall 
+ \input{union.latex} 
+ \writeall 
+\emptyall 
+ \input{intersection.latex} 
+ \writeall 
+\emptyall 
+ \input{absorbtionUnion.latex} 
+ \writeall 
+\begin{description}
+\item[Union]\emptyall
+	\input{union.latex} 
+  \result
+	\definition\end{description}\emptyall 
+ \input{absorbtionIntersection.latex} 
+ \writeall 
+\emptyall 
+ \input{unionCommutivity.latex} 
+ \writeall 
+\emptyall 
+ \input{intersectionCommutivity.latex} 
+ \writeall 
+\emptyall 
+ \input{associativity.latex} 
+ \writeall 
+\emptyall 
+ \input{distrabutivity.latex} 
+ \writeall 
+\end{document}

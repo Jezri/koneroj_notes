@@ -1,0 +1,6 @@
+\renewcommand{\name}{Intersection}
+\renewcommand{\definition}{
+The intersection of two sets \(X\) and \(Y\) is defined by
+\[ x \in X \cap Y \Leftrightarrow x \in X \wedge x \in Y \]
+
+}

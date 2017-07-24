@@ -1,0 +1,4 @@
+\renewcommand{\name}{Union commutivity}
+\renewcommand{\result}{
+\[X \cup Y = Y \cup X]
+}

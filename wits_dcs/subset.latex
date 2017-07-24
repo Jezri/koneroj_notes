@@ -1,0 +1,5 @@
+\renewcommand{\name}{subset}
+\renewcommand{\definition}{
+\[ X \subseteq Y \]
+\[(x \in X \Rightarrow x \in Y)\]
+}

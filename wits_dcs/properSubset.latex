@@ -1,0 +1,6 @@
+\renewcommand{\name}{Proper subset}
+\renewcommand{\definition}{
+\(X\) is a proper subset of \(Y\)
+\[X \subset Y \]
+\[\Leftrightarrow X \subseteq Y \quad \text{and} \quad Y \not\subseteq{X}\]
+}

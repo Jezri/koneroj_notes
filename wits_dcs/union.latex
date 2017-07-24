@@ -1,0 +1,5 @@
+\renewcommand{\name}{Union}
+\renewcommand{\definition}{
+The union of two sets \(X\) and \(Y\) is defined by
+\[x \in X \cup Y \Leftrightarrow x \in X \vee x \in y \]
+}

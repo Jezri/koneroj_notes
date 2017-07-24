@@ -1,0 +1,5 @@
+\renewcommand{\name}{Associativity}
+\renewcommand{\result}{
+\[X \cap (Y \cap Z) = (X \cap Y) \cap Z\]
+\[X \cup (Y \cup Z) = (X \cup Y) \cup Z \] 
+}

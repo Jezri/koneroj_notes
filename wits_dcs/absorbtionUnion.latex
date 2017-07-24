@@ -1,0 +1,9 @@
+\renewcommand{\name}{Absorbtion union}
+\renewcommand{\result}{
+	X \subseteq y \Leftarrow X \cup Y = Y 
+	}
+\renewcommand{\proof}{
+\[X \in X \cup Y \]
+\[\dependency{Union}{\Leftrightarrow} x \in X \vee x \in Y \]
+either \(x\) is in why or \(x\) is in \(X\) which implies \(x\) is in \(Y\)
+}

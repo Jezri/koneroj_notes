@@ -1,0 +1,4 @@
+\renewcommand{\name}{Intersection commutivity}
+\renewcommand{\result}{
+\[X \cap Y = Y \cap X \]
+}
