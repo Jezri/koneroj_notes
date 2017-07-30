@@ -1,0 +1,10 @@
+\renewcommand{\name}{sinh sqaured}
+\renewcommand{\result}{ 
+\[\sinh ^2 x = \frac{\sinh 2x -1}{2}\] 
+}
+\renewcommand{\proof}{ 
+\[\dependency{cosh expansion}{\cosh ^2 x + \sinh ^2 x = \cosh 2x} \] 
+\[\dependency{hyperbolic pythagoras}{\Leftrightarrow} \left( \sinh^2x +1 \right) + \sinh = \frac{\cosh2x +1}{2}\]
+\[\Leftrightarrow \cosh ^2 x = \frac{\cosh 2x-1}{2}\]
+}
+

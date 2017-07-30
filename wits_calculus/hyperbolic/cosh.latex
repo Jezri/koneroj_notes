@@ -1,0 +1,4 @@
+\renewcommand{\name}{cosh}
+\renewcommand{\definition}{
+\[\cosh = \frac{e^x + e^-x}{2}\]
+}

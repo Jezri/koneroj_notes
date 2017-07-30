@@ -1,0 +1,11 @@
+\renewcommand{\name}{Hyperbolic Pythagoras}
+\renewcommand{\result}{
+\[\cosh^2x - \ sinh^2 = 1\]
+}
+\renewcommand{\proof}{
+\[\left(\frac{e^x + e^{-x}}{2} \right) ^ 2 - \left(\frac{e^x - e^{-x}}{2})^2 \]
+\[ = \frac{e^{2x}+2e^xe^{-x}+e^-2x}{4} - \frac{e^{2x} - 2e^xe^{-x}+e^{-2x}}{4}\]
+\[= \frac{4e^xe^{-x}}{4}\]
+\[=\frac{4}{4}\]
+\[ = 1 \]
+}

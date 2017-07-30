@@ -1,0 +1,9 @@
+\renewcommand{\name}{sinh expansion}
+\renewcommand{\result}{
+\[\sinh 2x = 2 \sinh x \cosh x \]
+}
+\renewcommand{\proof}{
+\[2 \sinh x \cosh x = 2 \left(\frac {e^{x}-e^{x}}{2} \right) \left(\frac {e^{x}+e^{x}}{2}\right)\]
+\[= \frac {e^{2x} - e^{-2x}}{2}\]
+\[=\sinh 2x \]
+}
